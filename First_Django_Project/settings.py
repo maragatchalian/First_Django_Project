@@ -107,6 +107,7 @@ ROOT_URLCONF = 'First_Django_Project.urls'
 WSGI_APPLICATION = 'First_Django_Project.wsgi.application'
 
 TEMPLATE_DIRS = (
+     '/home/mara/djcode/First_Django_Project/First_Django_Project/templates',
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
